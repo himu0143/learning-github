@@ -8,3 +8,8 @@ function multiply(a, b) {
     return a * b;
 }   
 console.log(multiply(4, 5));
+
+function subtract(a, b) {
+    return a - b;
+}               
+console.log(subtract(10, 6));
